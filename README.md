@@ -1,3 +1,3 @@
 # my-first-project
-My first GitHub project
-Thanks for visiting my project :)
+Hi this is my first GitHub project
+Thanks for visiting :)
